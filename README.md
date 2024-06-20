@@ -3,7 +3,7 @@
 <details>
   <summary>Android 8.1 (159)</summary>
   
-  [СКАЧАТЬ](https://google.com)
+  https://google.com
   
   ```nix
   let
