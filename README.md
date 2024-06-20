@@ -1,1 +1,1 @@
-Hello World
+Это сайт для скачивание прошивок для Asus ZenFone Max M2 (X01AD)
